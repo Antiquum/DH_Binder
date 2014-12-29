@@ -10,4 +10,4 @@ Simple binder I did in Delphi with the following options:<br>
 [+] You can choose the icon of the executable generated<br>
 [+] The builder includes a File Pumper, Icon Changer and Extension Spoofer<br>
 <br>
-Video : 
+Video : https://www.youtube.com/watch?v=GnyKSmXR9q4
