@@ -1,10 +1,13 @@
 DH Binder
 ========
 
-A simple Binder I did in Delphi with the following options:<br>
-
-[+] Board all files you want<br>
+Simple binder I did in Delphi with the following options:<br>
+<br>
+[+] Put all the files you want with the normal option, hidden or just remove load<br>
 [+] Select where the files are extracted<br>
-[+] You can upload your files in a hidden or normal<br>
+[+] You can upload files normally hidden form or<br>
 [+] You can hide files<br>
-[+] You can choose the executable icon<br>
+[+] You can choose the icon of the executable generated<br>
+[+] The builder includes a File Pumper, Icon Changer and Extension Spoofer<br>
+<br>
+Video : 
