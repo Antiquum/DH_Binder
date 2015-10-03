@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/09/03 14:03:42.390.pas,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\dhbinde.pas</Transaction>
+    <Transaction>2013/09/03 14:03:42.390.dfm,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\dhbinde.dfm</Transaction>
+    <Transaction>2013/09/03 14:03:45.421.dproj,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\dhbinder.dproj</Transaction>
+    <Transaction>2013/09/03 21:52:49.437.dproj,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\dhbinder.dproj=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder(optimizado)\dhbinder.dproj</Transaction>
+    <Transaction>2013/09/04 17:49:45.125.dproj,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\dhbinder.dproj=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\VersionFinal\dhbinder.dproj</Transaction>
+    <Transaction>2013/09/16 18:46:03.828.pas,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\VersionFinal\Unit2.pas=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\VersionFinal\about.pas</Transaction>
+    <Transaction>2013/09/16 18:46:03.828.dfm,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\VersionFinal\Unit2.dfm=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhbinder\VersionFinal\about.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
