@@ -9,5 +9,13 @@ Simple binder I did in Delphi with the following options:<br>
 [+] You can hide files<br>
 [+] You can choose the icon of the executable generated<br>
 [+] The builder includes a File Pumper, Icon Changer and Extension Spoofer<br>
-<br>
-Video : https://www.youtube.com/watch?v=GnyKSmXR9q4
+
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/dhbinder10.jpg)
+
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/GnyKSmXR9q4/0.jpg)](http://www.youtube.com/watch?v=GnyKSmXR9q4)
+
+Good Bye
